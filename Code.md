@@ -19,12 +19,6 @@ Whilst dancing involves physical contact between two or more people; inappropria
 is considered harrassment. This includes strong, rough, or sexual interactions that lead to an
 uncomfortable dance in any respect.
 
-## Guidance
-
-- Take responsiblity for your partner's safety.
-
-- Avoid critizing or teaching on the dance floor.
-
 ## Actions
 
 Participants asked to stop any harassing behavior are expected to comply immediately.

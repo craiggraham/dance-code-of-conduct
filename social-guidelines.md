@@ -19,7 +19,7 @@ criticise, or to offer feedback or advice on the dance floor unless the other pe
 you for it. Even then do your best to exercise kindness, consideration and an awareness of your own
 limits & faults. If you have any doubts at all, consider directing them to a teacher for feedback.
 
-You might personally feel that you would welcome feedback, but for many people can be hurtful,
+You might personally feel that you would welcome feedback, but for many people this can be hurtful,
 distressing or annoying and it can ruin their mood and their night. It goes against our goals of
 building an inclusive community where all feel welcome.
 

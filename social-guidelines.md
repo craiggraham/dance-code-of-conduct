@@ -1,7 +1,7 @@
 
 # Social Guidelines
 
-The goal of this code of conduct to provide guidelines for an inclusive & welcoming community. We
+The goal of this code of conduct is to provide guidelines for an inclusive & welcoming community. We
 would like everyone in the Zouk scene to have a relaxed and enjoyable time in classes & in socials.
 Keeping to these guidelines will help with that.
 

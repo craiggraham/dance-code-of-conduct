@@ -73,3 +73,24 @@ comfortable in the close embrace, but the other isn’t, we would not dance in t
 
 As a general rule, always approach your first dances with new people/dancers using an open position,
 and movements that allow plenty of personal space.
+
+
+## Partner Safety
+
+It is important to avoid movements that could possibly injure your partner.
+
+For leaders this means avoiding positions where your partner is not comfortable. In particular a
+leader should pay special attention to not over bending or stressing their partner's back & spine.
+The leader should always be responsible for their own weight and should not be in a position where
+they are leaning over their partner in a way that distributes the leaders weight on to the partner.
+This is particular important during the 'back' position in head movements.
+
+The follower should also take responsilibity for their own weight. This means that during cambres
+and dips the follower should support their own weight as much as they possibly can. If the leader
+leads the follower out of their balance then the follower cannot fully support their own weight.
+However the follower should try to keep the muscles engaged as that reduces the effort required by
+the leader and helps to protect the follower.
+
+The follower should not initiate any cambres, dips, drops or any motion that requires the leader to
+support them as leader must be prepared for such movements and if they happen unexpectedly they can
+damage the leader's back.

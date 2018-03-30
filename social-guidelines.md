@@ -71,3 +71,5 @@ important to keep in mind that we all have different limits on what we find comf
 dance situation, we should respect the personal space of our partner and so if one person is
 comfortable in the close embrace, but the other isn’t, we would not dance in the close embrace.
 
+As a general rule, always approach your first dances with new people/dancers using an open position,
+and movements that allow plenty of personal space.

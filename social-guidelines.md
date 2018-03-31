@@ -8,7 +8,7 @@ Keeping to these guidelines will help with that.
 If you feel someone is failing to follow these rules & suggestions then please talk to one of the
 teaching staff and we will deal with it.
 
-For our hard rules on behaviour involving any kind of harrassment please see our [code of
+For our hard rules on behaviour involving any kind of harassment please see our [code of
 conduct](https://github.com/michaeljones/dance-code-of-conduct/blob/master/Code.md).
 
 
@@ -43,6 +43,7 @@ shy or nervous.
 
 
 ## Personal hygiene
+
 Dancing involves being in close proximity to other people. It is important to take care with your
 personal hygiene. You should shower before the event and wear freshly washed clothes. You should
 have cleaned your teeth and use mints to avoid bad breath.
@@ -82,14 +83,20 @@ It is important to avoid movements that could possibly injure your partner.
 For leaders this means avoiding positions where your partner is not comfortable. In particular a
 leader should pay special attention to not over bending or stressing their partner's back & spine.
 The leader should always be responsible for their own weight and should not be in a position where
-they are leaning over their partner in a way that distributes the leaders weight on to the partner.
-This is particular important during the 'back' position in head movements.
+they are leaning over their partner in a way that distributes the leader's weight on to the partner.
+This is particularly important during the 'back' position in head movements.
 
-The follower should also take responsilibity for their own weight. This means that during cambres
-and dips the follower should support their own weight as much as they possibly can. If the leader
-leads the follower out of their balance then the follower cannot fully support their own weight.
-However the follower should try to keep the muscles engaged as that reduces the effort required by
-the leader and helps to protect the follower.
+The lead should never be rough. If the follower does not follow a move, always adapt the
+movement rather than adding more force. The lead should be light; it should only be 'firm' enough
+to be clear but no firmer. Using more force than necessary can make the dance uncomfortable and
+unsafe for your partner, particularly for beginners who are less likely to be able to adapt and keep
+up.
+
+The follower should take responsibility for their own weight. This means that during cambres and
+dips the follower should support their own weight as much as they possibly can. If the leader leads
+the follower out of their balance then the follower cannot fully support their own weight.  However
+the follower should try to keep their muscles engaged as that reduces the effort required by the
+leader and helps to protect the follower.
 
 The follower should not initiate any cambres, dips, drops or any motion that requires the leader to
 support them as leader must be prepared for such movements and if they happen unexpectedly they can

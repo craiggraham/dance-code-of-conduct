@@ -52,6 +52,17 @@ It is respectful to wear deodorant but not to wear heavy cologne or perfume whic
 overwhelming for your partner.
 
 
+## Clothing
+
+There isn't a general dress code for dancing Zouk. You should wear what you are comfortable with.
+That said, you should avoid wearing things that might get caught during a dance. This means that you
+should avoid wearning necklaces, bracelets and watches. It is also better for leaders to avoid
+wearing button-up shirts as the follower's hair can be tangled in the buttons.
+
+Due to the position of the close embrace it is also standard for leaders to empty their front-right
+pockets whilst dancing. Other pockets are fine to use.
+
+
 ## Dating & Pick up lines
 
 Social dancing is a great way to meet new people, however we come to enjoy the dance, not to be hit

@@ -34,6 +34,10 @@ obliged to dance because someone has asked. 'No, thank you' is a suitably polite
 someone does say 'no', please do not repeatedly ask them again through the session. Allow them to
 ask you for a dance when they are ready.
 
+This still applies when there is an imbalance between the number of leaders & followers. If there
+are very few followers or leaders, they do not have a responsibility to dance more in order to make
+up the imbalance. We all deserve to be allowed to rest or to refuse a dance.
+
 It can be hard to be turned down when asking for a dance, but please bear in mind that our community
 will be a happier place if everyone feels that they can dance when they want to rather than feeling
 obligated to dance every time they are asked. 

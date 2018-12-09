@@ -26,6 +26,10 @@ building an inclusive community where all feel welcome.
 This also applies to classes where unsolicited teaching can disrupt the flow of the class, make it
 hard for other students to hear the teacher speak and can include incorrect information.
 
+The only reasonable exception is where you are concerned that your partner's actions might hurt you
+in which case you should stop dancing with them. In that situation you can give them polite but
+clear feedback about your concerns or talk to a teacher or organiser about the situation.
+
 
 ## Asking & accepting requests for dances
 

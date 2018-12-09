@@ -56,17 +56,6 @@ It is respectful to wear deodorant but not to wear heavy cologne or perfume whic
 overwhelming for your partner.
 
 
-## Clothing
-
-There isn't a general dress code for dancing Zouk. You should wear what you are comfortable with.
-That said, you should avoid wearing things that might get caught during a dance. This means that you
-should avoid wearning necklaces, bracelets and watches. It is also better for leaders to avoid
-wearing button-up shirts as the follower's hair can be tangled in the buttons.
-
-Due to the position of the close embrace it is also standard for leaders to empty their front-right
-pockets whilst dancing. Other pockets are fine to use.
-
-
 ## Dating & Pick up lines
 
 Social dancing is a great way to meet new people, however we come to enjoy the dance, not to be hit
@@ -78,6 +67,23 @@ situation worse.
 Of course, if you see someone regularly at dancing and feel like you’re building up a genuine
 connection with them, then please feel free to ask them for coffee. But be respectful of their
 response.
+
+
+## Adjusting to your Partner's Level
+
+In classes & social dancing, we often dance with partners who have different levels of experience;
+from people who are trying it for the first time, to improvers and beyond. In general, the more
+experienced person should adjust their dancing to prioritise the comfort of their less experienced
+partner. Inserting more advanced elements into the dance can be confusing, unpleasant and possibly
+even dangerous for someone who is not used to them.
+
+As a leader, this might mean refraining from leading head movements and cambrés with a beginner. Or
+perhaps leading them slowly and clearly for someone who has a little experience but is still
+learning.
+
+As a follower, this could mean reducing personal styling that might cause confusion to someone who
+is not used to it, and refraining from deliberately initiating situations that might require the
+leader to confidently adjust to your movements.
 
 
 ## Respecting Other People’s Boundaries
@@ -114,5 +120,45 @@ the follower should try to keep their muscles engaged as that reduces the effort
 leader and helps to protect the follower.
 
 The follower should not initiate any cambres, dips, drops or any motion that requires the leader to
-support them as leader must be prepared for such movements and if they happen unexpectedly they can
-damage the leader's back.
+support them as the leader must be prepared for such movements and if they happen unexpectedly they
+can damage the leader's back.
+
+
+## Dance Floor Awareness
+
+Both social & class dance floors can vary a lot in terms of the amount of space that is available.
+At smaller venues and busier events we have to adjust the way that we dance to accommodate the
+conditions. It is important for the leaders to be aware of the dancers around them & their partner
+and to avoid bumps & collisions. The moves & the energy that the leader uses should be influenced by
+the available space with a clear priority on the safety & comfort of their partner.
+
+Try to be respectful the atmosphere and the other couples on the dance floor. Other dancers might
+give you more space if you are dancing big moves but it is rude to use that to claim more than your
+fair share of the floor.
+
+Whilst the leaders are responsible for general use of space, when it comes to follower styling it is
+the follower's responsibility to check that there is room for any extra arm movement or space that
+they would like to use. Follower styling is not led and so is not the responsiblity of the lead.
+
+
+## Lifts
+
+We often see various partner lifts performed as part of shows & demonstrations and they are
+sometimes taught in classes & workshops. It is generally inappropriate to use lifts on a social
+dance floor. Your partner might not be expecting them and might be unsure & uncomfortable with the
+motion.  As lifts are uncommon movements it harder for you and the couples around you to avoid
+collisions which makes them more dangerous. For these reasons, lifts are best done with partners
+that you have explicitly checked with in advance and should be done only during performances or in
+separate one-on-one practices.
+
+
+## Clothing
+
+There isn't a general dress code for dancing Zouk. You should wear what you are comfortable with.
+That said, you should avoid wearing things that might get caught during a dance. This means that you
+should avoid wearning necklaces, bracelets and watches. It is also better for leaders to avoid
+wearing button-up shirts as the follower's hair can be tangled in the buttons.
+
+Due to the position of the close embrace it is also standard for leaders to empty their front-right
+pockets whilst dancing. Other pockets are fine to use.
+

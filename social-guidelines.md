@@ -5,8 +5,7 @@ The goal of this code of conduct is to provide guidelines for an inclusive & wel
 would like everyone in the Zouk scene to have a relaxed and enjoyable time in classes & in socials.
 Keeping to these guidelines will help with that.
 
-If you feel someone is failing to follow these rules & suggestions then please talk to one of the
-teaching staff and we will deal with it.
+If you feel someone is failing to follow these rules & suggestions then please talk to a teacher and we will deal with it.
 
 For our hard rules on behaviour involving any kind of harassment please see our [code of
 conduct](https://github.com/michaeljones/dance-code-of-conduct/blob/master/Code.md).
@@ -17,7 +16,8 @@ conduct](https://github.com/michaeljones/dance-code-of-conduct/blob/master/Code.
 Social dances are about having fun, relaxing and enjoying the night. It is important not to
 criticise, or to offer feedback or advice on the dance floor unless the other person explicitly asks
 you for it. Even then do your best to exercise kindness, consideration and an awareness of your own
-limits & faults. If you have any doubts at all, consider directing them to a teacher for feedback.
+limits & faults. If you have any doubts at all, direct them to a teacher. It takes more work to fix 
+something wrongly learned than to get it right at the beginning.
 
 You might personally feel that you would welcome feedback, but for many people this can be hurtful,
 distressing or annoying and it can ruin their mood and their night. It goes against our goals of
@@ -46,13 +46,14 @@ It can be hard to be turned down when asking for a dance, but please bear in min
 will be a happier place if everyone feels that they can dance when they want to rather than feeling
 obligated to dance every time they are asked. 
 
-That said, please try to dance with everyone if you can. Particularly with beginners that might be
+That said, please try to dance with everyone if you can. Particularly with beginners, who might be
 shy or nervous.
 
 
 ## Personal hygiene
 
-Dancing involves being in close proximity to other people. It is important to take care with your
+Dancing involves being in close proximity to other people. Odour can be unpleasant and difficult to 
+discuss, especially when people do not know each other well. It is important to take care with your
 personal hygiene. You should shower before the event and wear freshly washed clothes. You should
 have cleaned your teeth and use mints to avoid bad breath.
 
@@ -75,35 +76,38 @@ response.
 
 ## Adjusting to your Partner's Level
 
-In classes & social dancing, we often dance with partners who have different levels of experience;
-from people who are trying it for the first time, to improvers and beyond. In general, the more
-experienced person should adjust their dancing to prioritise the comfort of their less experienced
-partner. Inserting more advanced elements into the dance can be confusing, unpleasant and possibly
-even dangerous for someone who is not used to them.
+In general, whether leading or following, we should make no assumptions about our partner. When we dance 
+with someone we do not know, we should begin by simply and gently exploring what our partner can do. When 
+we find something that doesn't work, leave it and try something else. If we find something that only works 
+gently and at low speed, keep it gentle and slow. Trying to do too much can be confusing, intimidating, 
+unpleasant and even dangerous for someone who is at an earlier stage in the dance.
 
-As a leader, this might mean refraining from leading head movements and cambrés with a beginner. Or
-perhaps leading them slowly and clearly for someone who has a little experience but is still
+As a leader for example, do not lead potentially dangerous head movements and cambrés with a beginner. Or
+perhaps lead them slowly and clearly for someone who has a little experience but is still
 learning.
 
-As a follower, this could mean reducing personal styling that might cause confusion to someone who
-is not used to it, and refraining from deliberately initiating situations that might require the
-leader to confidently adjust to your movements.
+As a follower, be careful with personal styling that might cause confusion to someone who is not used to it,
+and when deliberately initiating situations that might require the leader to confidently adjust to your 
+movements.
 
 
 ## Respecting Other People’s Boundaries
 
 Two people who are comfortable with each other can dance Zouk in a very close embrace. However it is
-important to keep in mind that we all have different limits on what we find comfortable. In any
-dance situation, we should respect the personal space of our partner and so if one person is
-comfortable in the close embrace, but the other isn’t, we would not dance in the close embrace.
+important to keep in mind that we all have different limits on what we find comfortable, and these limits 
+will be different when dancing with different people. In any dance situation, we should respect the personal 
+space of our partner and so if one person is comfortable in the close embrace, but the other isn’t, we would 
+not dance in the close embrace.
 
 As a general rule, always approach your first dances with new people/dancers using an open position,
 and movements that allow plenty of personal space.
 
+If moves you want to do require you to be close to your partner, and your partner does not want to be close,
+you simply have to select other moves!
 
 ## Partner Safety
 
-It is important to avoid movements that could possibly injure your partner.
+Dancing risks injury. We all have a responsibility to ourselves and others to minimise that risk.
 
 For leaders this means avoiding positions where your partner is not comfortable. In particular a
 leader should pay special attention to not over bending or stressing their partner's back & spine.
@@ -115,7 +119,7 @@ The lead should never be rough. If the follower does not follow a move, always a
 movement rather than adding more force. The lead should be light; it should only be 'firm' enough
 to be clear but no firmer. Using more force than necessary can make the dance uncomfortable and
 unsafe for your partner, particularly for beginners who are less likely to be able to adapt and keep
-up.
+up. Forcing followers through moves also means they do not learn to follow correctly.
 
 The follower should take responsibility for their own weight. This means that during cambres and
 dips the follower should support their own weight as much as they possibly can. If the leader leads
@@ -127,41 +131,41 @@ The follower should not initiate any cambres, dips, drops or any motion that req
 support them as the leader must be prepared for such movements and if they happen unexpectedly they
 can damage the leader's back.
 
+Movements should be smooth and controlled, and hands should not be gripped either by the lead or the
+follow. Shoulders especially are very vulnerable to injury by sudden movements, and it is far better 
+to lose connection briefly if an arm doesn't easily go where you think it should than to cause or 
+experience injury. 
+
 
 ## Dance Floor Awareness
 
 Both social & class dance floors can vary a lot in terms of the amount of space that is available.
 At smaller venues and busier events we have to adjust the way that we dance to accommodate the
-conditions. It is important for the leaders to be aware of the dancers around them & their partner
-and to avoid bumps & collisions. The moves & the energy that the leader uses should be influenced by
-the available space with a clear priority on the safety & comfort of their partner.
+conditions. It is important for both leaders and followers to be aware of the dancers around them
+and to avoid bumps & collisions. The moves, energy and styling that dancers use should be chosen to 
+fit the available space so everyone is safe.
 
 Try to be respectful the atmosphere and the other couples on the dance floor. Other dancers might
 give you more space if you are dancing big moves but it is rude to use that to claim more than your
 fair share of the floor.
 
-Whilst the leaders are responsible for general use of space, when it comes to follower styling it is
-the follower's responsibility to check that there is room for any extra arm movement or space that
-they would like to use. Follower styling is not led and so is not the responsiblity of the lead.
-
-
 ## Lifts
 
 We often see various partner lifts performed as part of shows & demonstrations and they are
-sometimes taught in classes & workshops. It is generally inappropriate to use lifts on a social
-dance floor. Your partner might not be expecting them and might be unsure & uncomfortable with the
-motion.  As lifts are uncommon movements it harder for you and the couples around you to avoid
-collisions which makes them more dangerous. For these reasons, lifts are best done with partners
-that you have explicitly checked with in advance and should be done only during performances or in
-separate one-on-one practices.
-
+sometimes taught in classes & workshops. On a busy social dance floor, with a partner you do not know
+well, do not use lifts. Your partner might not be expecting them and might be unsure & uncomfortable 
+with the motion. As lifts are uncommon movements it is harder for you and the couples around you to avoid
+collisions which makes them more dangerous. They should only be attempted by people who know they can get 
+them wrong safely, with partners who are familiar with them, and where there is enough space around for 
+them to go wrong without collision.
 
 ## Clothing
 
 There isn't a general dress code for dancing Zouk. You should wear what you are comfortable with.
 That said, you should avoid wearing things that might get caught during a dance. This means that you
-should avoid wearning necklaces, bracelets and watches. It is also better for leaders to avoid
-wearing button-up shirts as the follower's hair can be tangled in the buttons.
+should avoid wearing necklaces, bracelets and watches. Long ear rings can potentially get caught and torn 
+out. It is also better for leaders to avoid wearing button-up shirts as the follower's hair can be tangled 
+in the buttons.
 
 Due to the position of the close embrace it is also standard for leaders to empty their front-right
 pockets whilst dancing. Other pockets are fine to use.
